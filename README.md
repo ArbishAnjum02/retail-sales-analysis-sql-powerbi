@@ -163,7 +163,7 @@ git clone https://github.com/ArbishAnjum02/retail-sales-analysis-sql-powerbi.git
 
 - Import train.csv into your MySQL database workspace.
 
-- Open and execute retail_sales_analysis.sql step-by-step to generate sales summary metrics and ranking tables.
+- Open and execute `retail_sales_analysis.sql` step-by-step to generate sales summary metrics and ranking tables.
 
 
 
@@ -173,7 +173,7 @@ git clone https://github.com/ArbishAnjum02/retail-sales-analysis-sql-powerbi.git
 
 - Install Power BI Desktop.
 
-- Open sales_superstore_project 1.pbix to view and interact with the visualizations.
+- Open `Dashboard/retail_sales_analysis_dashboard.pbix` to view and interact with the visualizations.
 
 ---
 <a id="results-conclusion"></a>
