@@ -204,5 +204,6 @@ Power BI visualizations, business stakeholders can quickly identify growth areas
 - **LinkedIn: Your LinkedIn Profile URL**
 
 - **GitHub Profile:** https://github.com/ArbishAnjum02
-
+- 
+<a href="mailto:arbishanjum547@gmail.com">arbishanjum547@gmail.com</a>
 - **Email:** [arbishanjum547@gmail.com](mailto:arbishanjum547@gmail.com)
