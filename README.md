@@ -78,20 +78,13 @@ addressed in this project include:**
 
 ```text
 
-superstore-sales-analysis/
-
-│
-
-├── README.md # Project documentation
-
-├── retail_sales_analysis.sql # Complete SQL script with query analyses
-
-├── sales_superstore_project 1.pbix # Interactive Power BI Report
-
-└── assets/
-
-└── dashboard.png # Dashboard preview screenshot
-
+retail-sales-analysis-sql-powerbi/
+├── Dashboard/
+├── SQL QUERIES/
+├── data/
+├── images/
+├── .gitignore
+└── README.md              # Project documentation
 ```
 
 
