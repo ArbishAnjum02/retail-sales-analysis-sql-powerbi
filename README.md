@@ -128,18 +128,24 @@ The data analysis in MySQL ( retail_sales_analysis.sql ) is structured into 6 ma
 <a id="dashboard-output"></a>
 
 ## 🖥️ Dashboard & Output
+## 🖥️ Dashboard & Output
 
 The interactive Power BI dashboard provides key executive visuals:
 
-- Executive KPI Cards (Total Sales, Average Order Value, Order Volume)
+### 1. Executive KPI Cards & Main Dashboard
+![Executive KPI](images/image%201.png)
 
-- Monthly Sales Trends & YoY Growth Charts
+### 2. Monthly Sales Trends & YoY Growth
+![Sales Trends](images/image%202.png)
 
-- Regional & State Sales Heatmaps
+### 3. Regional & State Sales Heatmaps
+![Regional Sales](images/image%203.png)
 
-- Category & Sub-Category Breakdown Bar Charts
+### 4. Category & Sub-Category Breakdown
+![Category Breakdown](images/image%204.png)
 
-![Superstore Sales Dashboard](images/image%201.png)
+### 5. Summary & Key Insights
+![Summary Insights](images/image%205.png)
 
 ---
 <a id="how-to-run-this-project"></a>
