@@ -201,11 +201,11 @@ Power BI visualizations, business stakeholders can quickly identify growth areas
 
 ## ✍️Author & Contact
 
-- **Author: [Arbish Anjum]**
+- **Author: Arbish Anjum**
 
-- **LinkedIn: [Your LinkedIn Profile URL]**
+- **LinkedIn: Your LinkedIn Profile URL**
 
-- **GitHub: [Your GitHub Profile URL]**
+- **GitHub: Your GitHub Profile URL**
 
-- **Email: [arbishanjum547@gmail.com]**
+- **Email: arbishanjum547@gmail.com**
 
