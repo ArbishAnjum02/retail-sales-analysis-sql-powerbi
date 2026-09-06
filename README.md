@@ -139,7 +139,7 @@ The interactive Power BI dashboard provides key executive visuals:
 
 - Category & Sub-Category Breakdown Bar Charts
 
-![Superstore Sales Dashboard](assets/dashboard.png)
+![Superstore Sales Dashboard](images/image%201.png)
 
 ---
 <a id="how-to-run-this-project"></a>
