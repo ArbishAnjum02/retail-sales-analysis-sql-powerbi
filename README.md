@@ -150,8 +150,7 @@ The interactive Power BI dashboard provides key executive visuals:
 
 ```bash
 
-git clone https://github.com/your-username/superstore-sales-analysis.git
-
+git clone https://github.com/ArbishAnjum02/retail-sales-analysis-sql-powerbi.git
 ```
 
 2. **Run the SQL queries:**
