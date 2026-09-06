@@ -126,7 +126,6 @@ The data analysis in MySQL ( retail_sales_analysis.sql ) is structured into 6 ma
 <a id="dashboard-output"></a>
 
 ## 🖥️ Dashboard & Output
-## 🖥️ Dashboard & Output
 
 The interactive Power BI dashboard provides key executive visuals:
 
