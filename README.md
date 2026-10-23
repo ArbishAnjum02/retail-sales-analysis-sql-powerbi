@@ -202,4 +202,4 @@ Power BI visualizations, business stakeholders can quickly identify growth areas
 
 - **GitHub Profile:** https://github.com/ArbishAnjum02
 
-- **Email:** [arbishanjum547@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=arbishanjum547@gmail.com)
+- **Email:** [arbishanjum3@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=arbishanjum3@gmail.com)
