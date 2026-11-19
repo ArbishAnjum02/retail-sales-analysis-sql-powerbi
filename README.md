@@ -59,7 +59,7 @@ addressed in this project include:**
 <a id="tools-technologies"></a>
 ## 🛠️ Tools & Technologies
 
-- **Database Querying:** MySQL / SQL Server (SQL window functions, CTEs, aggregation, date parsing)
+- **Database:** MySQL
 
 - **Data Visualization:** Power BI Desktop ( .pbix report)
 
