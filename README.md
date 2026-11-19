@@ -26,7 +26,7 @@
 
 ## 📌 Overview
 
-**This project provides an end-to-end evaluation of retail business performance. Using SQL for data transformation, cleaning, and querying alongside Power BI
+**This project provides an end-to-end anlysis of retail business performance. Using SQL for querying alongside Power BI
 for interactive visualization, this project transforms raw transactional data into actionable business recommendations for store managers and executives.**
 
 ---
@@ -95,8 +95,6 @@ retail-sales-analysis-sql-powerbi/
 The data analysis in MySQL ( retail_sales_analysis.sql ) is structured into 6 main modules:
 
 1. **Sales Performance:** Total revenue, top 10 products, average order value (AOV), and monthly trends.
-
-
 
 2. **Customer Analytics:** Segment sales breakdown, top revenue customers, frequent order counts, and AOV per customer.
 
