@@ -1,4 +1,4 @@
-# Superstore Retail Sales Analysis & Power BI Dashboard
+# E-Commerce Retail Sales Analysis
 
 > A complete end-to-end data analytics project examining retail store performance across sales, customer segments, product categories, shipping methods, and regional growth.
 
