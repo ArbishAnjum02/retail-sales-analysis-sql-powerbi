@@ -27,7 +27,7 @@
 ## 📌 Overview
 
 **This project provides an end-to-end anlysis of retail business performance. Using SQL for querying alongside Power BI
-for interactive visualization, this project transforms raw transactional data into actionable business recommendations for store managers and executives.**
+for interactive visualization, this project transforms raw transactional data into actionable business recommendations.**
 
 ---
 <a id="problem-statement"></a>
